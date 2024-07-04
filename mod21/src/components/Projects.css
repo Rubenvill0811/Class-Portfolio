@@ -53,6 +53,7 @@
   /* background-color: #d4c2fc; */
   background-color: var(--light-purple);
   box-shadow: 0px 5px 5px rgba(84, 94, 86, 0.5);
+  display: flex;
 }
 .row2 {
   /* background-color: #d4c2fc; */
@@ -89,6 +90,22 @@
 .right {
   background-color: #f7c59f;
   box-shadow: 0px 5px 5px rgba(84, 94, 86, 0.5);
+}
+
+.me {
+  padding: 3em;
+  color: #270722;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.row2text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #270722;
+  padding: 2em;
 }
 
 /* h1 {
