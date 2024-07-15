@@ -1,10 +1,11 @@
-import { useState } from "react";
-import "./App.css";
+import Navcomp from "./components/Navcomp";
+import Homepage from "./homepage";
 
 function App() {
   return (
     <>
-      <h1>here</h1>
+      <Navcomp />
+      <Homepage />
     </>
   );
 }
