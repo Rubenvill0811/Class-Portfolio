@@ -1,1 +1,0 @@
-:root{--blue: #102b3f;--green: #062726;--dpurp: #6247aa;--lpurp: #a06cd5;--white: #e2cfea}.hero{display:flex;flex-direction:row;justify-content:center}.cards{display:flex;flex-direction:row;flex-wrap:wrap;justify-content:center;margin:2em}.card{margin:2rem}.card:hover{box-shadow:5px 10px #a06cd5;transition:.8s}
