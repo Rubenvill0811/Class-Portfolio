@@ -2,13 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import App from "./App.jsx";
 import "./index.css";
-import {
-  BrowserRouter as Router,
-  Route,
-  NavLink,
-  createBrowserRouter,
-  RouterProvider,
-} from "react-router-dom";
+import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Homepage from "./homepage.jsx";
 import PageNotFound from "./PageNotFound.jsx";
 import About from "./aboutme.jsx";
